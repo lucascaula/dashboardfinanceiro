@@ -1,0 +1,9 @@
+altair==5.2.0
+beautifulsoup4==4.11.1
+newspaper3k==0.2.8
+pandas==1.4.4
+plotly==5.13.0
+Requests==2.31.0
+streamlit==1.30.0
+textblob==0.17.1
+yfinance==0.2.33
